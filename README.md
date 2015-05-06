@@ -1,4 +1,4 @@
-# Emotion Engine
+![Logo](https://raw.githubusercontent.com/arvystate/Emotion/master/Resources/logo.png)
 
 Emotion Engine was an experiment to create an easy to use PHP Web Framework in short time.  It was developed by [Dal Rupnik](https://github.com/legoless) for his Bachelor of Science Thesis in 2011. The original paper is published on [Digital Library of University of Maribor](https://dk.um.si/Dokument.php?id=25670&lang=slv) in Slovenian language.
 
