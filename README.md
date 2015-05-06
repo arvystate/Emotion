@@ -4,7 +4,7 @@ Emotion Engine was an experiment to create an easy to use PHP Web Framework in v
 
 # Framework
 
-Framework was inspired by many top existing frameworks at the time such as [CodeIgniter](http://www.codeigniter.com), [Symfony](http://symfony.com), [Yii](http://www.yiiframework.com) and [Zend](http://framework.zend.com). It implements or builds on many ideas put forward by other respective frameworks. The main goal behind the development of the framework was to keep it's memory footprint small and very fast loading time, while having all the benefits of many components used in large frameworks.
+Framework was inspired by many top existing frameworks at the time such as [CodeIgniter](http://www.codeigniter.com), [Symfony](http://symfony.com), [Yii](http://www.yiiframework.com) and [Zend](http://framework.zend.com). It implements and builds on many ideas put forward by other respective frameworks. The main goal behind the development of the framework was to keep it's memory footprint small and very fast loading time, while having all the benefits of many components used in large frameworks.
 
 This repository contains the latest code of the framework including a web application that was originally implemented as the main distribution site for the framework. It also includes code that optimizes and "compiles" the entire PHP framework into smaller files and allows download of the package.
 
